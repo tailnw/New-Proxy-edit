@@ -1,5 +1,3 @@
-apt-get update && apt-get -y upgrade
-apt-get install -y build-essential nano
 wget --no-check-certificate https://github.com/z3APA3A/3proxy/archive/0.8.12.tar.gz
 tar xzf 0.8.12.tar.gz
 cd 3proxy-0.8.12
